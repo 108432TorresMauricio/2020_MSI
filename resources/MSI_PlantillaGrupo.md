@@ -1,7 +1,7 @@
-# Información del Grupo Nº [< GRUPO>] - [< CURSO>]
+# Información del Grupo Nº [<04>] - [<2w1>]
 
 
-## Nombre del Grupo :zap:
+## reptilianos  :zap:
 
 * [Nombre del grupo: Utilicen un alias o nombre trivial que los identifique. Recuerden que estamos en el ámbito universitario, por lo cual deberán tener en cuenta que el mismo no sea ofensivo, etc.]
 
@@ -10,18 +10,18 @@
 
 | Legajo| Apellidos Nombres  | Cuenta GitHub | Linkedin
 | :------: | :-------- | :-------- | :-------- |
-| 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
-| 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
-| 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
-| 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
+| 111511 | Cejas, Alan               |[CejasAlan](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
+| 108874 | Barrera, Rodrigo          |[111590FacundoSantoro](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
+| 111590 | Santoro, Facundo          |[RrodrigoJBarrera](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
+| 108432 | Torres, Mauricio          |[108432TorresMauricio](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
 
 
 # Checklist de estado de actividad
 
 ## Trabajo Practico Entregas :clipboard:
-- [ ] Entrega Primera Parte
+- [X] Entrega Primera Parte
 - [ ] Entrega Segunda Parte
 - [ ] Entrega Tercera Parte
 
 ## Trello :clipboard:
-- [ ] Capturas del tablero de Trello
+- [x] Capturas del tablero de Trello
